@@ -1,0 +1,36 @@
+{
+    "model_version": "1.0",
+    "training_date": "2025-02-24",
+    "selected_features": [
+        "Horsepower",
+        "Make_Aston Martin",
+        "Make_Audi",
+        "Make_BMW",
+        "Make_Bentley",
+        "Make_Ford",
+        "Make_Mercedes-Benz",
+        "Make_Nissan",
+        "Cylinders_I3",
+        "Cylinders_I4",
+        "Cylinders_I5",
+        "Cylinders_I6",
+        "Cylinders_V10",
+        "Cylinders_V12",
+        "Cylinders_V6",
+        "Cylinders_V8",
+        "Cylinders_W12"
+    ],
+    "original_columns": [
+        "Horsepower",
+        "Torque",
+        "Highway Fuel Economy",
+        "Make",
+        "Year",
+        "Body Size",
+        "Body Style",
+        "Cylinders",
+        "Engine Aspiration",
+        "Drivetrain",
+        "Transmission"
+    ]
+}
